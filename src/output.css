@@ -214,6 +214,9 @@
   .resize {
     resize: both;
   }
+  .flex-row-reverse {
+    flex-direction: row-reverse;
+  }
   .items-center {
     align-items: center;
   }
@@ -264,6 +267,9 @@
   .font-semibold {
     --tw-font-weight: var(--font-weight-semibold);
     font-weight: var(--font-weight-semibold);
+  }
+  .text-\[\#5454D4\] {
+    color: #5454D4;
   }
   .text-white {
     color: var(--color-white);
